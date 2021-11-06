@@ -70,22 +70,3 @@ a {
 a:visited{
     color: dimgray;
 }
-@media (max-width: 750px){
-    h3{
-        padding: 0px 0px 0px 22px;
-    }
-    .firulai{border-style: dashed;
-        height: 50px;
-        width: 70%;
-        position:relative;
-        left: 70px;}
-        #img1{position: relative;
-            left: 50px;}
-            #estilo{position: absolute;
-                left: 0px;
-                right: 0px;
-                top: 50px;}
-#estilo{
-    top: 47px;
-}
-}
